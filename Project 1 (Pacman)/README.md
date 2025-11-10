@@ -121,7 +121,7 @@ item = pq.pop()
 1. Depth-First Search (DFS) 
 2. Breadth-First Search (BFS) 
 3. Uniform Cost Search (UCS) 
-4. A* Search - uses PriorityQueue
+4. A* Search 
 
 **Available mazes:** check the directory `main/layout/` for maze layouts
 
