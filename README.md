@@ -16,9 +16,12 @@ When the deadline is approaching commit your solution and a report document.
 
 ## Compiling and Running the Framework
 
-*information about installing git, python versions, pip install specific libraries, etc here* <br />
-We recommend using Visual Studio Code as an IDE.
-If you want to use a different operating system or IDE, you will have to port parts of the code yourself.
+For this course, you'll need Python 3 or higher installed on your machine. We recommend using Visual Studio Code as an IDE.
+If you want to use a different operating system or IDE, but you're welcome to use any IDE you're comfortable with. <br />
+
+Install Python: https://www.python.org/downloads/ <br />
+Install Visual Studio Code (recommended): https://code.visualstudio.com/
+
 
 
 ## Contact Information
